@@ -6,7 +6,7 @@
 
 ## Projects
 - 🌐 [My Portfolio](https://abhishek7ks.github.io/Myportfolio)
-- ✅ [Todo App](https://github.com/abhishek7ks/Todo-App)
+
 
 ## Skills
 HTML | CSS | JavaScript | Git | GitHub
